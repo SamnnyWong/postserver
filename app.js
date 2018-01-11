@@ -14,10 +14,10 @@ var server = app.listen(app.get('port'), function() {
 });
 
 
-app.get('/api/myvlue', function () {
-
-})
-
-app.post
-
-app.delete
+// app.get('/api/myvlue', function () {
+//
+// })
+//
+// app.post
+//
+// app.delete
